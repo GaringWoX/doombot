@@ -2,9 +2,9 @@
   "name": "doombot",
   "version": "1.0.0",
   "description": "",
-  "main": "bot.js",
+  "main": "doom.js",
   "scripts": {
-    "start": "node ./index.js",
+    "start": "node doom.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "DooM",
