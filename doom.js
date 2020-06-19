@@ -3,7 +3,7 @@ const Request = require("request");
 const client = new Discord.Client({
     disableEveryone: true
 });
-const config = require("./config.json");
+
 
 client.commands = new Discord.Collection();
 
